@@ -1,8 +1,8 @@
 # Tradecore Selenium Task
 
-Python version: 2.7.14
-Selenium version: 3.10.0
-Google Chrome driver: 2.33
+Python version: 2.7.14  
+Selenium version: 3.10.0  
+Google Chrome driver: 2.33  
 
 The purpose of this task was to write automated test for a given sign up form. 
 The tests are declared in file 'base.py' and there is a method for each test case covered in exel file 'Test_Cases_Documentation.xlsx'.
